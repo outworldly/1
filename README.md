@@ -20,7 +20,9 @@
 | Sunday   | NPeriod1  | NPeriod2  | NPeriod3  | NPeriod4  | NPeriod5  | NPeriod6  |
 
 ## Attendance
-
+| Week  | Term  | Year  |
+| :---- | :---: | ----: |
+| WP    | TP    | YP    |
 ## Behaviour
 | Incident         | Points   |
 | :--------------- | -------: |
